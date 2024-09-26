@@ -15,9 +15,6 @@ public class ExcerciceTableauChaines {
         System.out.println(nomVille.length);
 
         nomVille[3] = "Reims";
-        for(String ville : nomVille){
-            System.out.println(ville);
-        }
 
         for(String ville : nomVille){
             System.out.println(ville);

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_Iteration/DeclarationApp/DeclarationApp.iml" filepath="$PROJECT_DIR$/Java_Iteration/DeclarationApp/DeclarationApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Iteration/TP_3/DeclarationApp/DeclarationApp.iml" filepath="$PROJECT_DIR$/Java_Iteration/TP_3/DeclarationApp/DeclarationApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Formation.iml" filepath="$PROJECT_DIR$/Formation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_Iteration/fr.operateur/fr.operateur.iml" filepath="$PROJECT_DIR$/Java_Iteration/fr.operateur/fr.operateur.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_Iteration/fr.tableaux/fr.tableaux.iml" filepath="$PROJECT_DIR$/Java_Iteration/fr.tableaux/fr.tableaux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Iteration/TP_4/fr.operateur/fr.operateur.iml" filepath="$PROJECT_DIR$/Java_Iteration/TP_4/fr.operateur/fr.operateur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Iteration/TP_5/fr.tableaux/fr.tableaux.iml" filepath="$PROJECT_DIR$/Java_Iteration/TP_5/fr.tableaux/fr.tableaux.iml" />
     </modules>
   </component>
 </project>
