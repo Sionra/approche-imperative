@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeclarationApp/DeclarationApp.iml" filepath="$PROJECT_DIR$/DeclarationApp/DeclarationApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Formation.iml" filepath="$PROJECT_DIR$/Formation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fr.operateur/fr.operateur.iml" filepath="$PROJECT_DIR$/fr.operateur/fr.operateur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fr.tableaux/fr.tableaux.iml" filepath="$PROJECT_DIR$/fr.tableaux/fr.tableaux.iml" />
+    </modules>
+  </component>
+</project>
