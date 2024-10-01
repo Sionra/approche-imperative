@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Formation.iml" filepath="$PROJECT_DIR$/Formation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_6/fr.boucle/fr.boucle.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_6/fr.boucle/fr.boucle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_3/fr.declaration.variable/fr.declaration.variable.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_3/fr.declaration.variable/fr.declaration.variable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_4/fr.operateur/fr.operateur.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_4/fr.operateur/fr.operateur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_4/fr.operateurs/fr.operateurs.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_4/fr.operateurs/fr.operateurs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_5/fr.tableaux/fr.tableaux.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_5/fr.tableaux/fr.tableaux.iml" />
     </modules>
   </component>

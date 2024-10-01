@@ -7,7 +7,7 @@ public class ExcerciceTableauChaines {
         nomVille[3] = "Nime";
         nomVille[4] = "Nice";
 
-        //utilisation d'un for each, facilite l'écriture d'une boucle ou l'on doit parcourir un tableau
+        //Utilisation d'un for each, facilite l'écriture d'une boucle ou l'on doit parcourir un tableau
         for(String ville : nomVille){
             System.out.println(ville);
         }
