@@ -6,9 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_1/TP_1.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_1/TP_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_2/TP_2.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_2/TP_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_3/TP_3.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_3/TP_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_4/TP_4.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_4/TP_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_5/TP_5.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_5/TP_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/approche-imperative/approche-imperative.iml" filepath="$PROJECT_DIR$/approche-imperative/approche-imperative.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_Autonomie/fr.algorithmie/fr.algorithmie.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_Autonomie/fr.algorithmie/fr.algorithmie.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_5/fr.boucle/fr.boucle.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_5/fr.boucle/fr.boucle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/approche-imperative/TP_4/fr.tableaux/fr.tableaux.iml" filepath="$PROJECT_DIR$/Java/approche-imperative/TP_4/fr.tableaux/fr.tableaux.iml" />
     </modules>
   </component>
 </project>
