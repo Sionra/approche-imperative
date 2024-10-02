@@ -1,3 +1,5 @@
+package fr.operateurs;
+
 public class DeclarationOperateur {
     public static void main(String[] args) {
         int a = 10;

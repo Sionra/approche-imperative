@@ -1,3 +1,5 @@
+package fr.tableaux;
+
 public class ExcerciceTableauChaines {
     public static void main(String[] args) {
         String[] nomVille = new String[5];

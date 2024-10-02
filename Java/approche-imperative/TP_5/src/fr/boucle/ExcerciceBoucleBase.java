@@ -1,3 +1,5 @@
+package fr.boucle;
+
 public class ExcerciceBoucleBase {
     public static void main(String[] args) {
         System.out.println("----- Nombre de 1 a 10 -----");

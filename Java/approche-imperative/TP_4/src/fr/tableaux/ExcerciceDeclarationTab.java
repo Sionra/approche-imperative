@@ -1,3 +1,5 @@
+package fr.tableaux;
+
 public class ExcerciceDeclarationTab {
     public static void main(String[] args) {
         int[] tableau = new int[8];
