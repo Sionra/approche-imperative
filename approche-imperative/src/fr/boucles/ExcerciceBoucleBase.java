@@ -1,4 +1,4 @@
-package fr.boucle;
+package fr.boucles;
 
 public class ExcerciceBoucleBase {
     public static void main(String[] args) {

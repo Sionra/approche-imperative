@@ -1,4 +1,4 @@
-package fr.boucle;
+package fr.boucles;
 
 public class ExcerciceTableauEntier {
     public static void main(String[] args) {
