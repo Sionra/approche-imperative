@@ -6,7 +6,7 @@ public class ExcerciceTableauChaines {
         nomVille[0] = "Toulouse";
         nomVille[1] = "Montpellier";
         nomVille[2] = "Bordeaux";
-        nomVille[3] = "Nime";
+        nomVille[3] = "Nîmes";
         nomVille[4] = "Nice";
 
         //Utilisation d'un for each, facilite l'écriture d'une boucle ou l'on doit parcourir un tableau

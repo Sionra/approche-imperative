@@ -37,7 +37,7 @@ public class ExcerciceBouclesEtTests {
 
         System.out.println("----- Valeur de l'array impair -----");
         for ( int value : array){
-            if ( value % 2 == 1){
+            if ( value % 2 != 0){
                 System.out.println(value);
             }
         }
