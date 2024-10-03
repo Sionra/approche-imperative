@@ -7,12 +7,12 @@ public class AffichageInverse {
 
         System.out.println("----- Valeur de l'array dans le sens ordonée");
         for (int value : array) {
-            System.out.println(value);
+            System.out.print(value + ", ");
         }
 
-        System.out.println("----- Valeur de l'array dans le sens désordonée");
+        System.out.println("\n----- Valeur de l'array dans le sens inverse");
         for (int i = array.length - 1; i >= 0; i--) {
-            System.out.println(array[i]);
+            System.out.print(array[i] + ", ");
         }
 
         //Copie du tableau ans un autre tableau
